@@ -91,6 +91,10 @@ font-family: "Times New Roman", Georgia, Serif;
     font-family: "Times New Roman", Georgia, Serif;
 }
 
+.img-responsive{
+    margin-left:3%;
+}
+
 .winner h4{
     margin-left:30%;
     font-size: 40px;
